@@ -28,6 +28,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.Billate_TravelApp" >
         <activity
+            android:name="com.example.billate_travelapp.ContactUs"
+            android:exported="false" />
+        <activity
+            android:name="com.example.billate_travelapp.TravelTips"
+            android:exported="false" />
+        <activity
             android:name="com.example.billate_travelapp.Destinations"
             android:exported="false" />
         <activity

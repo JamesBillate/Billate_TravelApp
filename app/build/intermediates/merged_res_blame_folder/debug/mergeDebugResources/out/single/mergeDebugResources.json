@@ -12,10 +12,6 @@
         "source": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.billate_travelapp-debug-33:/layout_activity_destinations.xml.flat",
-        "source": "com.example.billate_travelapp-main-35:/layout/activity_destinations.xml"
-    },
-    {
         "merged": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
@@ -44,6 +40,10 @@
         "source": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-main-35:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-debug-33:\\layout_activity_contact_us.xml.flat",
+        "source": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-main-35:\\layout\\activity_contact_us.xml"
+    },
+    {
         "merged": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
@@ -56,12 +56,24 @@
         "source": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-debug-33:\\layout_activity_travel_tips.xml.flat",
+        "source": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-main-35:\\layout\\activity_travel_tips.xml"
+    },
+    {
         "merged": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.billate_travelapp-debug-33:/layout_activity_travel_tips.xml.flat",
+        "source": "com.example.billate_travelapp-main-35:/layout/activity_travel_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-debug-33:\\layout_activity_destinations.xml.flat",
+        "source": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-main-35:\\layout\\activity_destinations.xml"
     },
     {
         "merged": "C:\\Users\\CIIT\\.gradle\\daemon\\8.7\\com.example.billate_travelapp-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",

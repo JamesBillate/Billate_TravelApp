@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+    android:id="@+id/main"
+
+    android:padding="16dp">
+
+<!-- Title/Header -->
+<TextView
+    android:id="@+id/title"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Travel Tips"
+    android:textSize="24sp"
+    android:layout_marginBottom="16dp"
+    android:textStyle="bold"
+    android:gravity="center"/>
+
+<!-- TableLayout for displaying travel tips -->
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    android:divider="@android:color/darker_gray"
+    android:showDividers="middle">
+
+    <!-- Table Header Row -->
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Topic"
+            android:textStyle="bold"
+            android:paddingEnd="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tip"
+            android:textStyle="bold"/>
+    </TableRow>
+
+    <!-- Packing Tips -->
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Packing"
+            android:paddingEnd="8dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Roll clothes to save space and prevent wrinkles." />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Packing"
+            android:paddingEnd="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Use packing cubes for better organization."/>
+    </TableRow>
+
+    <!-- Safety Tips -->
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Safety"
+            android:paddingEnd="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Always keep a photocopy of important documents."/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Safety"
+            android:paddingEnd="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Avoid walking alone at night in unfamiliar areas."/>
+    </TableRow>
+
+    <!-- Budgeting Tips -->
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Budgeting"
+            android:paddingEnd="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Use apps to track your travel expenses."/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Budgeting"
+            android:paddingEnd="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Book flights in advance to get the best prices."/>
+    </TableRow>
+
+</TableLayout>
+
+</LinearLayout>

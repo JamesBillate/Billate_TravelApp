@@ -8,10 +8,16 @@ id btnContacts
 id btnDestination
 id btnGallery
 id btnTips
+id button
+id editTextText
 id imageView2
 id main
+id textView2
+id title
+layout activity_contact_us
 layout activity_destinations
 layout activity_main
+layout activity_travel_tips
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name

@@ -3213,6 +3213,7 @@ int id btnContacts 0x7f080065
 int id btnDestination 0x7f080066
 int id btnGallery 0x7f080067
 int id btnTips 0x7f080068
+int id button 0x7f080200
 int id buttonPanel 0x7f080069
 int id cache_measures 0x7f08006a
 int id callMeasure 0x7f08006b
@@ -3286,6 +3287,7 @@ int id easeInOut 0x7f0800ae
 int id easeOut 0x7f0800af
 int id east 0x7f0800b0
 int id edge 0x7f0800b1
+int id editTextText 0x7f080201
 int id edit_query 0x7f0800b2
 int id edit_text_id 0x7f0800b3
 int id elastic 0x7f0800b4
@@ -3567,6 +3569,7 @@ int id textSpacerNoButtons 0x7f0801c7
 int id textSpacerNoTitle 0x7f0801c8
 int id textStart 0x7f0801c9
 int id textTop 0x7f0801ca
+int id textView2 0x7f080202
 int id text_input_end_icon 0x7f0801cb
 int id text_input_error_icon 0x7f0801cc
 int id text_input_start_icon 0x7f0801cd
@@ -3734,8 +3737,10 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_contact_us 0x7f0b006d
 int layout activity_destinations 0x7f0b006c
 int layout activity_main 0x7f0b001c
+int layout activity_travel_tips 0x7f0b006e
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e
 int layout design_bottom_sheet_dialog 0x7f0b001f
